@@ -46,11 +46,11 @@ pour illustrer les différentes destinations proposées.
 <p align="center">
   <img src="images/bali.jpg" width="220" height="150" style="object-fit:cover;" alt="Bali">
   <img src="images/islande.jpg" width="220" height="150" style="object-fit:cover;" alt="Islande">
-  <img src="images/les_alpes.jpg" width="220" height="150" style="object-fit:cover;" alt="Alpes">
+  <img src="images/alpes.jpg" width="220" height="150" style="object-fit:cover;" alt="Alpes">
 </p>
 
 <p align="center">
-  <img src="images/marrakech.jpg" width="220" height="150" style="object-fit:cover;" alt="Marrakech">
+  <img src="images/marrrakech.jpg" width="220" height="150" style="object-fit:cover;" alt="Marrakech">
   <img src="images/paris.jpg" width="220" height="150" style="object-fit:cover;" alt="Paris">
   <img src="images/tokyo.jpg" width="220" height="150" style="object-fit:cover;" alt="Tokyo">
 </p>
